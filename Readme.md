@@ -1,4 +1,6 @@
 # Pinocchio AMM
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
 
 This project is my implementation of an Automated Market Maker (AMM) built using Pinocchio, following the [Blueshift Pinocchio AMM Challenge](https://learn.blueshift.gg/en/challenges/pinocchio-amm).
 
